@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.code-container{
+	display:flex;
+}
+.code{
+	width:30px;
+	height:60px;
+	margin:20px;
+	justify:center;
+	align-content:center;
+}
+.container{
+	border:2px solid black;
+	padding:10px;
+}
+h1{
+	text-align:center;
+}
